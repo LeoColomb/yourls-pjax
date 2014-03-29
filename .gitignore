@@ -1,0 +1,9 @@
+assets/*/*
+!assets/*/*.min.*
+bower_components/
+node_modules/
+vendor/*/*/*
+!vendor/*/*/src/
+!README*
+!LICENSE*
+composer.lock

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "rcrowe/turbo",
+        "version": "0.3.0",
+        "version_normalized": "0.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/rcrowe/Turbo.git",
+            "reference": "fe5c92fe9d9f19961d45a8d8a9f26e2af422f7ad"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/rcrowe/Turbo/zipball/fe5c92fe9d9f19961d45a8d8a9f26e2af422f7ad",
+            "reference": "fe5c92fe9d9f19961d45a8d8a9f26e2af422f7ad",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2013-06-15 20:45:26",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Turbo": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Rob Crowe",
+                "email": "hello@vivalacrowe.com",
+                "homepage": "http://vivalacrowe.com"
+            }
+        ],
+        "description": "Think turbolinks but for your PHP application. Powered by pjax.",
+        "keywords": [
+            "laravel",
+            "pjax",
+            "turbolinks"
+        ]
+    }
+]

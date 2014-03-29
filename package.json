@@ -1,0 +1,10 @@
+{
+  "name": "yourls-pjax",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-bower": "~0.9.1",
+    "grunt-composer": "~0.2.0",
+    "grunt-contrib-uglify": "~0.4.0"
+  }
+}

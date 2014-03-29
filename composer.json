@@ -1,0 +1,13 @@
+{
+    "name": "leocolomb/yourls-pjax",
+    "description": "Improve admin fluidity with PJAX",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Colombaro"
+        }
+    ],
+    "require": {
+        "rcrowe/turbo": "*"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "yourls-pjax",
+  "private": true,
+  "dependencies": {
+    "jquery-pjax": "*"
+  },
+  "exportsOverride": {
+    "jquery-pjax": {
+      "js": ["jquery.pjax.js"]
+    }
+  }
+}
