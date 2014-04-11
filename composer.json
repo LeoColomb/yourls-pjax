@@ -2,6 +2,11 @@
     "name": "leocolomb/yourls-pjax",
     "description": "Improve admin fluidity with PJAX",
     "license": "MIT",
+    "keywords": [
+        "yourls",
+        "yourlsextension",
+        "pjax"
+    ],
     "authors": [
         {
             "name": "Leo Colombaro"
